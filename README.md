@@ -1,4 +1,4 @@
-<img width="1584" alt="Maria Finelli, Design that ships." src="banner.png">
+<img width="1584" alt="Maria Finelli, product design work" src="banner.svg">
 
 # Hey, how's it going? 
 
