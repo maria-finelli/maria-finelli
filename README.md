@@ -36,8 +36,4 @@ A building map, a flow for connecting water usage data, and an event site. I des
 
 If I weren't in this field, I'd probably be a neuroscientist and part-time florist.
 
-I love cooking because it's basically designing with flavors. (And you have the added bonus of eating those designs.)
-
-I always want to hear about your pet. Please say hi for me.
-
 [More about me](https://maria-sara.com/about)
