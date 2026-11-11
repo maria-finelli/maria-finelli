@@ -1,3 +1,5 @@
+<img width="1584" alt="Maria Finelli, Design that ships." src="banner.png">
+
 # Hi, I'm Maria.
 
 ### Product designer who ships.
