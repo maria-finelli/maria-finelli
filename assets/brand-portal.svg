@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 340" role="img" aria-label="Brand Portal visual concept: a structured library of typography, colors, and reusable assets">
+<rect width="720" height="340" rx="18" fill="#f4f1ea"/>
+<text x="31" y="39" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#6b6862">BRAND ECOSYSTEM / 04</text>
+<circle cx="671" cy="34" r="10" fill="#fd7d4f"/>
+<text x="31" y="99" font-family="Inter,Arial,sans-serif" font-size="50" font-weight="750" letter-spacing="-2.7" fill="#14130f">Brand Portal</text>
+<text x="33" y="127" font-family="Inter,Arial,sans-serif" font-size="15" fill="#6b6862">The system, not just the style guide.</text>
+<rect x="32" y="159" width="656" height="148" rx="13" fill="#fffefa" stroke="#d6d1c9"/>
+<rect x="53" y="177" width="151" height="112" rx="8" fill="#1f1d1a"/>
+<text x="71" y="220" font-family="Inter,Arial,sans-serif" font-size="39" font-weight="700" letter-spacing="-2" fill="#f4f1ea">Aa</text>
+<text x="71" y="272" font-family="Inter,Arial,sans-serif" font-size="12" letter-spacing="1.6" fill="#f1ebe0">TYPE SYSTEM</text>
+<rect x="217" y="177" width="146" height="112" rx="8" fill="#fd7d4f"/>
+<text x="231" y="274" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.2" fill="#14130f">COLOR / TOKEN</text>
+<rect x="376" y="177" width="144" height="112" rx="8" fill="#d1ccc2"/>
+<g stroke="#6b6862" stroke-width="2" fill="none">
+<rect x="396" y="198" width="104" height="24" rx="5"/>
+<rect x="396" y="232" width="72" height="24" rx="5"/>
+</g>
+<text x="395" y="274" font-family="Inter,Arial,sans-serif" font-size="12" letter-spacing="1.1" fill="#14130f">COMPONENTS</text>
+<rect x="533" y="177" width="134" height="112" rx="8" fill="#e5e1d8"/>
+<circle cx="600" cy="223" r="28" fill="none" stroke="#14130f" stroke-width="3"/>
+<path d="M588 223L597 233L614 212" fill="none" stroke="#fd7d4f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="552" y="274" font-family="Inter,Arial,sans-serif" font-size="12" letter-spacing="1.1" fill="#14130f">USAGE RULES</text>
+</svg>
