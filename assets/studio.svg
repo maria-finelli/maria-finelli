@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 340" role="img" aria-label="Runwise Studio concept: design context connected to an agent draft and a human review">
+<rect width="720" height="340" rx="18" fill="#e9e5db"/>
+<text x="31" y="39" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#6b6862">DESIGN SYSTEMS / 03</text>
+<circle cx="671" cy="34" r="10" fill="#fd7d4f"/>
+<text x="31" y="99" font-family="Inter,Arial,sans-serif" font-size="50" font-weight="750" letter-spacing="-2.7" fill="#14130f">Studio</text>
+<text x="33" y="127" font-family="Inter,Arial,sans-serif" font-size="15" fill="#6b6862">An AI production assistant with design judgment built in.</text>
+<path d="M70 237H650" stroke="#fd7d4f" stroke-width="4" stroke-linecap="round"/>
+<g font-family="Inter,Arial,sans-serif">
+  <rect x="33" y="175" width="190" height="129" rx="13" fill="#fcfbf8" stroke="#d2ccc2"/>
+  <rect x="265" y="175" width="190" height="129" rx="13" fill="#fcfbf8" stroke="#d2ccc2"/>
+  <rect x="497" y="175" width="190" height="129" rx="13" fill="#fcfbf8" stroke="#d2ccc2"/>
+  <circle cx="62" cy="202" r="10" fill="#fd7d4f"/>
+  <circle cx="294" cy="202" r="10" fill="#fd7d4f"/>
+  <circle cx="526" cy="202" r="10" fill="#fd7d4f"/>
+  <text x="83" y="207" font-size="16" font-weight="700" fill="#14130f">Brand context</text>
+  <text x="315" y="207" font-size="16" font-weight="700" fill="#14130f">Agent draft</text>
+  <text x="547" y="207" font-size="16" font-weight="700" fill="#14130f">Human review</text>
+  <rect x="54" y="248" width="148" height="7" rx="3" fill="#c6c1b8"/>
+  <rect x="54" y="264" width="113" height="7" rx="3" fill="#dedad2"/>
+  <rect x="286" y="248" width="148" height="7" rx="3" fill="#c6c1b8"/>
+  <rect x="286" y="264" width="104" height="7" rx="3" fill="#dedad2"/>
+  <path d="M525 254L535 265L558 242" fill="none" stroke="#fd7d4f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="575" y="261" font-size="14" fill="#6b6862">Refine &amp; ship</text>
+</g>
+</svg>
