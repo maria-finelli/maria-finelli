@@ -1,10 +1,10 @@
 <img width="1584" alt="Maria Finelli, Design that ships." src="banner.png">
 
-# Hi, I'm Maria.
+# Hey, how's it going? 
 
-### Product designer who ships.
+### I'm Maria Finelli, a Lead Product Designer at Runwise.
 
-I'm a Lead Product Designer at Runwise, previously at Datadog and Radar. I work across product and brand, and these days I build a lot of what I design with AI coding agents.
+I work across product and brand, and these days I build a lot of what I design with AI coding agents. Previously, I've spent time at Datadog and Radar.
 
 I majored in psychology at Rutgers and was mildly obsessed with the concept of memory. I'm still fascinated by how our brains work. That curiosity shows up in the questions I ask and the details I spend time on.
 
