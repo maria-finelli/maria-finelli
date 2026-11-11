@@ -6,8 +6,6 @@ I'm a Lead Product Designer at Runwise, previously at Datadog and Radar. I work 
 
 I majored in psychology at Rutgers and was mildly obsessed with the concept of memory. I'm still fascinated by how our brains work. That curiosity shows up in the questions I ask and the details I spend time on.
 
-The process can be messy. I care a lot about getting the final thing right.
-
 [Portfolio](https://maria-sara.com) · [LinkedIn](https://www.linkedin.com/in/finellimaria)
 
 ## A few things I've been building
@@ -31,9 +29,3 @@ An AI design production agent I built with David, a senior engineer at Runwise. 
 A building map, a flow for connecting water usage data, and an event site. I designed and built all three with AI coding agents, then added analytics to understand how people use them.
 
 [Explore the tools and process](https://maria-sara.com/runwise-growth-tools)
-
-## Also
-
-If I weren't in this field, I'd probably be a neuroscientist and part-time florist.
-
-[More about me](https://maria-sara.com/about)
